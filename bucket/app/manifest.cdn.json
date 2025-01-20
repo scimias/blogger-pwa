@@ -1,14 +1,14 @@
 {
-  "name": "My Blog",
+  "name": "AoiCyber",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "AoiCyber",
+  "description": "AoiCyber.com adalah website teknologi berbahasa Indonesia yang menyajikan informasi gadget, game Android, iOS, film, teknologi.",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
-  "start_url": "https://hello-example.blogspot.com/?utm_source=homescreen",
-  "scope": "https://hello-example.blogspot.com/",
+  "start_url": "https://aokicyber.blogspot.com/?utm_source=homescreen",
+  "scope": "https://aokicyber.blogspot.com/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
@@ -116,10 +116,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
+      "name": "Blogger",
+      "short_name": "Blogger",
       "description": "Shortcut 1 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
+      "url": "https://aokicyber.blogspot.com/search/label/Blogger?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -128,10 +128,10 @@
       ]
     },
     {
-      "name": "Shortcut 2",
-      "short_name": "Shortcut 2",
+      "name": "Wordpress",
+      "short_name": "Wordpress",
       "description": "Shortcut 2 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
+      "url": "https://aokicyber.blogspot.com/search/label/Wordpress?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
