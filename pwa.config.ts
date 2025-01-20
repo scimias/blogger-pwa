@@ -3,9 +3,9 @@ import type { Config } from './types';
 export default {
   version: '1.0',
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'AoiCyber',
+  shortName: 'AoiCyber',
+  description: 'AoiCyber.com adalah website teknologi berbahasa Indonesia yang menyajikan informasi gadget, game Android, iOS, film, teknologi.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -18,16 +18,16 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
+      name: 'Blogger',
+      shortName: 'Blogger',
       description: 'Shortcut 1 description goes here...',
-      url: '/search/label/shortcut-1?utm_source=homescreen',
+      url: '/search/label/Blogger?utm_source=homescreen',
     },
     {
-      name: 'Shortcut 2',
-      shortName: 'Shortcut 2',
+      name: 'Wordpress',
+      shortName: 'Wordpress',
       description: 'Shortcut 2 description goes here...',
-      url: '/search/label/shortcut-2?utm_source=homescreen',
+      url: '/search/label/Wordpress?utm_source=homescreen',
     },
   ],
   pwa: {
@@ -40,5 +40,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://aokicyber.blogspot.com',
 } satisfies Config;
